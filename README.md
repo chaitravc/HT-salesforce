@@ -1,3 +1,50 @@
+# HandsMen Threads - Salesforce CRM Solution 👔
+
+A Salesforce-based CRM application built as part of an internship project for a bespoke men's fashion brand, *HandsMen Threads*. The solution focuses on streamlining customer management, order processing, inventory tracking, and marketing automation using Salesforce features.
+
+---
+
+## Project Overview
+
+This project enables the business to:
+- Register and manage customer profiles
+- Set up and manage fashion products
+- Handle custom orders and update their status
+- Track inventory and trigger low-stock alerts
+- Run loyalty programs and marketing campaigns
+- Automate notifications via Flows and Email Alerts
+
+---
+
+## Key Features
+
+- **Custom Objects:** HandsMen Customer, Product, Order, Inventory, Marketing Campaign
+- **Validation Rules:** Ensure clean and correct data input
+- **Flows:** Automate stock alerts and loyalty updates
+- **Apex Triggers:** Custom logic for order completion and inventory adjustment
+- **Roles & Profiles:** Secure role-based access control
+- **Email Templates & Alerts:** Notify customers automatically
+
+---
+
+## Built With
+
+- Salesforce Lightning Platform
+- Apex
+- Process Builder & Flows
+- Object Manager
+
+---
+
+## Note
+
+This project was developed for learning and internship purposes.  
+For detailed documentation and screenshots, refer to the project files.
+
+
+## Screenshots of the output:
+
+
 <img width="1297" height="517" alt="Image" src="https://github.com/user-attachments/assets/04f8bdbf-1135-4c1f-aac5-88321125c380" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8857b131-3ee1-4202-86b7-a81fd054d173" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6bfc5cc4-b12a-4ced-8ace-6ec8f37afffb" />
