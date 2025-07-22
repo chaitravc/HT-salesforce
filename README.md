@@ -55,3 +55,14 @@ For detailed documentation and screenshots, refer to the project files.
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a9df3541-9c8e-4395-84c8-bb21500ce5ab" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e69e857c-4cdd-4bbd-afac-75909bb5e8fb" />
 <img width="679" height="586" alt="Image" src="https://github.com/user-attachments/assets/8bcd86ef-6637-4565-b51a-3fd7bb37fa6f" />
+
+
+
+### Installation
+
+Clone the repository:
+
+
+git clone https://github.com/chaitravc/handsmen-salesforce-crm.git
+
+
