@@ -58,11 +58,6 @@ For detailed documentation and screenshots, refer to the project files.
 
 
 
-### Installation
 
-Clone the repository:
-
-
-git clone https://github.com/chaitravc/handsmen-salesforce-crm.git
 
 
