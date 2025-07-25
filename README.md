@@ -45,7 +45,6 @@ For detailed documentation and screenshots, refer to the project files.
 ## Screenshots of the output:
 
 
-<img width="1297" height="517" alt="Image" src="https://github.com/user-attachments/assets/04f8bdbf-1135-4c1f-aac5-88321125c380" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8857b131-3ee1-4202-86b7-a81fd054d173" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6bfc5cc4-b12a-4ced-8ace-6ec8f37afffb" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8f05d328-1a51-4832-ad3f-f1e7b28a3e7d" />
